@@ -21,7 +21,7 @@ Grabbing the highest Anthozoa assemblies from NCBI with the highest BUSCO scores
   
   (Dendronephthya gigantea)[https://www.ncbi.nlm.nih.gov/datasets/taxonomy/151771/]
   
-  (Posillopora damicornis)[https://www.ncbi.nlm.nih.gov/datasets/taxonomy/46731/]
+  (Pocillopora damicornis)[https://www.ncbi.nlm.nih.gov/datasets/taxonomy/46731/]
   
   (Xenia sp. Carnegie-2017)[https://www.ncbi.nlm.nih.gov/datasets/taxonomy/2897299/]
   
